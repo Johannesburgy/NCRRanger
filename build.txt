@@ -1,0 +1,3 @@
+displayName = Elite Riot Gear - NCR Ranger
+author = Johannesburgy
+version = 1.3
